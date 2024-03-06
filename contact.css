@@ -1,0 +1,42 @@
+.nav a{
+    
+    margin: 0px 5px 0px 5px;
+    text-decoration: dashed;
+    color: black;
+    padding: 15px;
+    font-size: 20px;
+    border-top: 4px solid;
+}
+.about{
+    text-align: center;
+    padding: 20px;
+    color: black;
+    display: flex;
+    align-items: center;
+}
+.nav a:hover{
+    color: rgb(15, 43, 255);
+}
+.mar{
+    margin-left: 28px;
+    background-image: url("https://images.unsplash.com/photo-1601662528567-526cd06f6582?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cHJvZmVzc2lvbmFsJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D")
+}
+
+.name{
+    margin-right: 730px;
+    font-style: italic;
+    color: rgb(89, 84, 84);
+}
+.colour{
+    color: red;
+}
+.photo{
+
+    float: right;
+    margin-right: 10cap;
+    border-radius: 150px;
+}
+.link{
+    text-decoration: none;
+    color: rgb(15, 43, 255);
+}
